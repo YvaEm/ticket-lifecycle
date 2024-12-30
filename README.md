@@ -100,9 +100,19 @@ Assign the ticket to yourself (jane) and post a reply to all recipients involved
 
 
 <p>
-After doing your due diligence to research the issue you come back with your final response</p>
+On the job you would start researching what caused the problem and when it started.
+	
+You could ask around in your team if you are struggling to find or locate anything
+
+If taking a long time make sure you are following your SLA and keeping your user in the know with updates
+
+After you find a solution send your final response in the ticket and close it 
+	
+</p>
 
 ![Screenshot 2024-12-29 221230](https://github.com/user-attachments/assets/f1bf4eb3-bcfd-4208-9b04-7ec29b6d14de)
+
+![Screenshot 2024-12-29 221325](https://github.com/user-attachments/assets/71ca44ee-63a0-4303-83e1-e4cc401ed0ed)
 
 
 
